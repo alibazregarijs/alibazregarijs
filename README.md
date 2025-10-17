@@ -20,13 +20,6 @@
 
 ---
 
-## 🌱 I’m currently learning
-- Advanced **Next.js** routing, caching, and edge performance.
-- Scalable state strategies with **Redux** and server state patterns.
-- Better DX with typed schemas using **Zod** and form UX with **React Hook Form**.
-
----
-
 ## 📌 Featured projects
 - **Touristo** — Travel booking platform  
   Next.js (SSR, SSG, ISR), React Hook Form + Zod, Redux, Convex (real-time), i18n (fa/en), Husky CI/CD  
