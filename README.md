@@ -1,44 +1,49 @@
-👋 Hey! I'm Ali Bazregari, I'm a JavaScript-based Web Developer and I'm fascinated for technology!
+### 👋 Hey! I'm Ali Bazregari, I'm a JavaScript-based Web Developer and I'm fascinated for technology!
 
-## 🔭 I’m currently working on
-- Polishing **Touristo**: performance, real-time features (Convex), and multilingual UX (fa/en).
-- Building reusable component patterns with **shadcn UI** + **Tailwind CSS**.
-- Consistently improving code quality with **ESLint**, **Husky** pre-commit hooks, and clean Git workflows.
+<img align="right" width="250" src="https://user-images.githubusercontent.com/81701584/143141485-754fa361-85f4-41f3-801a-845fb9bf0afc.png" />
 
----
+```javascript
 
-## 📌 Featured projects
-- **Touristo** — Travel booking platform  
-  Next.js (SSR, SSG, ISR), React Hook Form + Zod, Redux, Convex (real-time), i18n (fa/en), Husky CI/CD  
+const Dev = {
+  name: 'Ali',
+  age: 24,
+  mainHobbies: ['Gaming', 'Watching TV shows'],
+  stack: ['Typescript', 'ReactJS', 'Nextjs'],
+  tools: ['VSCode', 'Git', 'Docker'],
+  mdStyle: ['HTML', 'TailwindCSS', 'Styled-Components']
+ }
 
+```
 
-- **Lango** — Language learning app  
-  Clean, responsive UI with Next.js and modern frontend practices  
-  [Live](https://lango-topaz.vercel.app/) • [Code](#)
+<details>
+  <summary>More info</summary>
+  
+  ### 💻 **Languages and Resources:**  
 
----
+  <code><img height="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="34" src="https://user-images.githubusercontent.com/81701584/143092278-8656bac1-a7a9-4cfa-abb5-3df5b6c176c6.png"></code>
+  <code><img height="34" src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/nodejs-256.png"></code>
+  <code><img height="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+  <code><img height="34" src="https://user-images.githubusercontent.com/81701584/143130271-b8bcab16-9c91-4f39-920a-859ac30a8fff.png"></code>
+  <code><img height="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+  <code><img height="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+  <code><img height="34" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
 
-## 🧪 I’ve contributed to
-- Building testable, maintainable UIs with component-driven development.
-- Improving accessibility (WCAG) and Lighthouse scores.
-- Setting up efficient CI/CD and pre-commit workflows.
+  ### ⚙️ **Tools:**  
 
----
+  <code><img height="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+  <code><img height="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+  <code><img height="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+  <code><img height="34" src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4"></code>
+  <code><img height="34" src="https://avatars.githubusercontent.com/u/53234021?s=200&v=4"></code>
+  <code><img height="34" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4"></code>
 
-## ✍️ I’ve written about
-- Practical SSR vs SSG vs ISR in Next.js.
-- Type-safe forms with Zod + React Hook Form.
-- Real-time patterns on the frontend with Convex.
+  [email]: alibazregariintel@gmail.com
 
----
+  ### 📬 Contact!
+  [<img align="left" alt="Portfolio (protótipo)" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
 
-## 💖 How to support me
-- ⭐ Star repositories you find helpful.
-- 🗣️ Share feedback via issues or discussions.
-- 🔄 Open PRs — I love collaborating.
+  <code><br></code>
 
----
-
-## 📫 How to reach me
-- Email: alibazregariintel@gmail.com
-
+If you'd like to get in touch with me, don't hesitate to send me a message :)
