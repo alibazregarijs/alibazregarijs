@@ -1,17 +1,15 @@
-# Hi there 👋, I'm Ali Bazregari
+👋 Hey! I'm Ali Bazregari, I'm a JavaScript-based Web Developer and I'm fascinated for technology!
 
-🙋‍♂️ Front-End Developer focused on clean, user-centered UI  
-⚛️ React & Next.js | 📦 Redux | 🔐 Clerk | 🔧 Convex | 🧰 shadcn UI  
-🌍 i18n (fa/en) | ⚡ SSR, SSG, ISR | ✅ ESLint & Husky | 🧪 Type-safe forms (React Hook Form + Zod)
 
----
+const Dev = {
+  name: 'Ali',
+  age: 24,
+  mainHobbies: ['Gaming', 'Watching TV shows', 'Cooking'],
 
-## 🔎 About me
-- **24-year-old Front-End Developer** who loves building fast, accessible, and intuitive interfaces.
-- I enjoy combining solid UI design with modern frontend architecture and performance best practices.
-- Based in Qazvin, open to remote collaboration and learning from great teams.
-
----
+  stack: ['Typescript', 'ReactJS', 'Nextjs'],
+  tools: ['VSCode', 'Git', 'Docker'],
+  mdStyle: ['HTML', 'TailwindCSS', 'Styled-Components']
+ }
 
 ## 🔭 I’m currently working on
 - Polishing **Touristo**: performance, real-time features (Convex), and multilingual UX (fa/en).
