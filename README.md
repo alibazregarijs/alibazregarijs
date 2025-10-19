@@ -1,16 +1,5 @@
 👋 Hey! I'm Ali Bazregari, I'm a JavaScript-based Web Developer and I'm fascinated for technology!
 
-
-const Dev = {
-  name: 'Ali',
-  age: 24,
-  mainHobbies: ['Gaming', 'Watching TV shows', 'Cooking'],
-
-  stack: ['Typescript', 'ReactJS', 'Nextjs'],
-  tools: ['VSCode', 'Git', 'Docker'],
-  mdStyle: ['HTML', 'TailwindCSS', 'Styled-Components']
- }
-
 ## 🔭 I’m currently working on
 - Polishing **Touristo**: performance, real-time features (Convex), and multilingual UX (fa/en).
 - Building reusable component patterns with **shadcn UI** + **Tailwind CSS**.
