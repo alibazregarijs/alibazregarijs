@@ -1,6 +1,5 @@
 ### 👋 Hey! I'm Ali Bazregari, I'm a JavaScript-based Web Developer and I'm fascinated for technology!
 
-<img align="right" width="250" src="https://user-images.githubusercontent.com/81701584/143141485-754fa361-85f4-41f3-801a-845fb9bf0afc.png" />
 
 ```javascript
 
